@@ -1,0 +1,13 @@
+Windows Registry Editor Version 5.00
+
+; Created by: Ali Husain Sorathiya
+; Created on: March 09th 2021
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender]
+"DisableAntiSpyware"=dword:00000001
+"DisableRoutinelyTakingAction"=dword:00000001
+"DisableBehaviorMonitoring"=dword:00000001
+"DisableOnAccessProtection"=dword:00000001
+"DisableScanOnRealtimeEnable"=dword:00000001
+
